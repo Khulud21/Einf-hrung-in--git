@@ -6,3 +6,4 @@ test
 und noch mehr andere Dinge regeln 
 und viel lernen!
 tetst test
+fixes #1
